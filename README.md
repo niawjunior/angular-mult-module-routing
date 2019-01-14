@@ -1,6 +1,6 @@
 # AppRoute
 
-## Live Demo https://niawjunior.github.io/angular-mult-module-routing
+## Live Demo https://niawjunior.github.io/angular-multi-module-routing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
