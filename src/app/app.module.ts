@@ -8,14 +8,15 @@ import { AppRoutingModule } from './app.routing.module';
 import { UpdateComponent } from './settings/update/update.component';
 import { DeleteComponent } from './settings/delete/delete.component';
 import { SettingsRoutingModule } from './settings/settings.routes';
-
+import { SettingsComponent } from './settings/settings.component';
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     AboutComponent,
     UpdateComponent,
-    DeleteComponent
+    DeleteComponent,
+    SettingsComponent
   ],
   imports: [
     BrowserModule,
